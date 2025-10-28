@@ -162,7 +162,7 @@ else:
         'redis': {
             'host': 'ec2-54-90-41-195.compute-1.amazonaws.com',
             'port': 10400,
-            'password': 'pf01379312ff47131e6784005ae4c1b3f88e766ff576fa2701f4f5b6a65a69ae5',
+            'password': '',
             'db': 0, 
             'health_check_interval': 10,
             'socket_timeout': 10,
@@ -172,5 +172,5 @@ else:
             'ssl': True,
             'ssl_cert_reqs': None
         }
-        # 'redis': 'rediss://:pf01379312ff47131e6784005ae4c1b3f88e766ff576fa2701f4f5b6a65a69ae5@ec2-54-90-41-195.compute-1.amazonaws.com:10400'
+        
     }

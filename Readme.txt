@@ -1,3 +1,11 @@
+Web crawling (data crawling) from a horse racing website.
+Website name: racingpost.com 
+Work includes: 
+   - Scrapping per day automatically, or Manually. 
+   - Developing Query tools with full options. 
+   - Exporting data from the database to CSV.
+
+https://genesis-data.herokuapp.com/
 
 1. cd horseracing
 2. pip install -r requirement.txt
